@@ -1,8 +1,6 @@
 # docker-compose.yml -- Deployment Apache Superset + PostgreSQL
-# Pakai: docker compose up -d
-# Setelah jalan, buka http://localhost:8088 (login default: admin/admin -- GANTI SEGERA)
-
-version: "3.8"
+# Setup: salin .env.example jadi .env, isi semua nilai, lalu `docker compose up -d`
+# Setelah jalan, buka http://localhost:8088 dan login pakai SUPERSET_ADMIN_USERNAME/PASSWORD dari .env
 
 services:
   db:
@@ -10,9 +8,9 @@ services:
     container_name: superset_db
     restart: unless-stopped
     environment:
-      POSTGRES_DB: dashboard_iku
-      POSTGRES_USER: superset
-      POSTGRES_PASSWORD: arumie
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
     volumes:
       - db_data:/var/lib/postgresql/data
       - ./schema.sql:/docker-entrypoint-initdb.d/01_schema.sql
@@ -27,7 +25,13 @@ services:
     depends_on:
       - db
     environment:
-      SUPERSET_SECRET_KEY: ganti_dengan_random_string_panjang
+      SUPERSET_SECRET_KEY: ${SUPERSET_SECRET_KEY}
+      SUPERSET_ADMIN_USERNAME: ${SUPERSET_ADMIN_USERNAME}
+      SUPERSET_ADMIN_PASSWORD: ${SUPERSET_ADMIN_PASSWORD}
+      SUPERSET_ADMIN_EMAIL: ${SUPERSET_ADMIN_EMAIL}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
     ports:
       - "8088:8088"
     volumes:
@@ -35,11 +39,11 @@ services:
       - ./superset_config.py:/app/pythonpath/superset_config.py
     command: >
       sh -c "
-      uv pip install --python /app/.venv/bin/python3 psycopg2-binary &&
+      uv pip install --python /app/.venv/bin/python3 psycopg2-binary gunicorn &&
       superset db upgrade &&
-      superset fab create-admin --username admin --firstname Admin --lastname User --email admin@example.com --password admin &&
+      superset fab create-admin --username \"$$SUPERSET_ADMIN_USERNAME\" --firstname Admin --lastname User --email \"$$SUPERSET_ADMIN_EMAIL\" --password \"$$SUPERSET_ADMIN_PASSWORD\" &&
       superset init &&
-      superset run -h 0.0.0.0 -p 8088
+      /app/.venv/bin/gunicorn --bind 0.0.0.0:8088 --workers 4 --worker-class gthread --threads 4 --timeout 120 'superset.app:create_app()'
       "
 
 volumes:
