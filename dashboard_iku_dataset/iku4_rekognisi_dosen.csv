@@ -1,0 +1,78 @@
+id,dosen_id,program_id,tahun,jenis_rekognisi,tingkat,deskripsi
+1,D0034,EEE,2021,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2021
+2,D0056,EDU,2021,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2021
+3,D0056,EDU,2021,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2021
+4,D0016,BIS,2021,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2021
+5,D0024,CSE,2021,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2021
+6,D0006,ACC,2021,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2021
+7,D0063,ENG,2021,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2021
+8,D0006,ACC,2021,Penghargaan Internasional,Internasional,Rekognisi penghargaan internasional tahun 2021
+9,D0013,MGT,2021,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2021
+10,D0054,EDU,2021,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2021
+11,D0016,BIS,2021,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2021
+12,D0055,EDU,2021,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2021
+13,D0075,PAD,2021,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2021
+14,D0041,MEC,2021,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2021
+15,D0079,PSY,2021,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2021
+16,D0023,CSE,2022,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2022
+17,D0055,EDU,2022,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2022
+18,D0064,ENG,2022,Penghargaan Internasional,Internasional,Rekognisi penghargaan internasional tahun 2022
+19,D0015,BIS,2022,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2022
+20,D0060,ENG,2022,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2022
+21,D0038,EEE,2022,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2022
+22,D0036,EEE,2022,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2022
+23,D0033,EEE,2022,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2022
+24,D0052,EDU,2022,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2022
+25,D0064,ENG,2023,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2023
+26,D0046,IND,2023,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2023
+27,D0042,MEC,2023,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2023
+28,D0014,BIS,2023,Penghargaan Internasional,Internasional,Rekognisi penghargaan internasional tahun 2023
+29,D0049,IND,2023,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2023
+30,D0016,BIS,2023,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2023
+31,D0077,PAD,2023,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2023
+32,D0044,MEC,2023,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2023
+33,D0024,CSE,2023,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2023
+34,D0074,PAD,2023,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2023
+35,D0020,BIS,2023,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2023
+36,D0077,PAD,2023,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2023
+37,D0050,IND,2023,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2023
+38,D0040,MEC,2023,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2023
+39,D0044,MEC,2023,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2023
+40,D0029,CSE,2023,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2023
+41,D0084,PSY,2024,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2024
+42,D0030,CSE,2024,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2024
+43,D0080,PSY,2024,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2024
+44,D0023,CSE,2024,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2024
+45,D0074,PAD,2024,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2024
+46,D0036,EEE,2024,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2024
+47,D0030,CSE,2024,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2024
+48,D0026,CSE,2024,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2024
+49,D0019,BIS,2024,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2024
+50,D0070,MTH,2024,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2024
+51,D0048,IND,2024,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2024
+52,D0073,PAD,2024,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2024
+53,D0075,PAD,2024,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2024
+54,D0063,ENG,2024,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2024
+55,D0007,ACC,2025,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2025
+56,D0065,ENG,2025,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2025
+57,D0064,ENG,2025,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2025
+58,D0041,MEC,2025,Penghargaan Internasional,Internasional,Rekognisi penghargaan internasional tahun 2025
+59,D0051,IND,2025,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2025
+60,D0047,IND,2025,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2025
+61,D0071,MTH,2025,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2025
+62,D0079,PSY,2025,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2025
+63,D0050,IND,2026,Penghargaan Internasional,Internasional,Rekognisi penghargaan internasional tahun 2026
+64,D0073,PAD,2026,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2026
+65,D0083,PSY,2026,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2026
+66,D0083,PSY,2026,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2026
+67,D0083,PSY,2026,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2026
+68,D0081,PSY,2026,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2026
+69,D0065,ENG,2026,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2026
+70,D0028,CSE,2026,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2026
+71,D0040,MEC,2026,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2026
+72,D0037,EEE,2026,Penerapan Riset di Masyarakat,Nasional,Rekognisi penerapan riset di masyarakat tahun 2026
+73,D0006,ACC,2026,Sitasi Ilmiah Tinggi,Internasional,Rekognisi sitasi ilmiah tinggi tahun 2026
+74,D0073,PAD,2026,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2026
+75,D0014,BIS,2026,Penghargaan Internasional,Internasional,Rekognisi penghargaan internasional tahun 2026
+76,D0075,PAD,2026,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2026
+77,D0035,EEE,2026,Kepakaran Nasional,Nasional,Rekognisi kepakaran nasional tahun 2026

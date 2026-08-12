@@ -1,0 +1,37 @@
+id,tahun,kategori,skor_atau_status,skor_numerik,ada_dokumen_bukti
+1,2021,Audit Keuangan,Baik,79,True
+2,2022,Audit Keuangan,Baik,83,False
+3,2023,Audit Keuangan,Sangat Baik,89,False
+4,2024,Audit Keuangan,Sangat Baik,92,True
+5,2025,Audit Keuangan,Sangat Baik,95,True
+6,2026,Audit Keuangan,Sangat Baik,94,True
+7,2021,SAKIP,Cukup,68,False
+8,2022,SAKIP,Cukup,73,True
+9,2023,SAKIP,Baik,84,True
+10,2024,SAKIP,Baik,80,True
+11,2025,SAKIP,Baik,79,True
+12,2026,SAKIP,Baik,85,True
+13,2021,Integritas Akademik,Sangat Baik,90,True
+14,2022,Integritas Akademik,Sangat Baik,92,True
+15,2023,Integritas Akademik,Sangat Baik,92,True
+16,2024,Integritas Akademik,Sangat Baik,94,True
+17,2025,Integritas Akademik,Sangat Baik,95,True
+18,2026,Integritas Akademik,Sangat Baik,95,True
+19,2021,Pencegahan Kekerasan (PPKS),Baik,81,True
+20,2022,Pencegahan Kekerasan (PPKS),Baik,82,True
+21,2023,Pencegahan Kekerasan (PPKS),Baik,81,False
+22,2024,Pencegahan Kekerasan (PPKS),Baik,82,True
+23,2025,Pencegahan Kekerasan (PPKS),Sangat Baik,94,False
+24,2026,Pencegahan Kekerasan (PPKS),Sangat Baik,94,True
+25,2021,Anti Narkoba,Cukup,67,True
+26,2022,Anti Narkoba,Cukup,72,False
+27,2023,Anti Narkoba,Cukup,70,True
+28,2024,Anti Narkoba,Cukup,68,True
+29,2025,Anti Narkoba,Cukup,73,True
+30,2026,Anti Narkoba,Cukup,73,False
+31,2021,Anti Korupsi,Baik,80,True
+32,2022,Anti Korupsi,Baik,83,True
+33,2023,Anti Korupsi,Baik,80,False
+34,2024,Anti Korupsi,Baik,81,True
+35,2025,Anti Korupsi,Sangat Baik,91,True
+36,2026,Anti Korupsi,Sangat Baik,94,True

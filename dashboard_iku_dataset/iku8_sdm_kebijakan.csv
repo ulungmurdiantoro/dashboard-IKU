@@ -1,0 +1,36 @@
+id,dosen_id,program_id,tahun,jenis_keterlibatan,instansi,output
+1,D0072,MTH,2021,Konsultasi Pemerintah,Kadin,Rekomendasi kebijakan
+2,D0007,ACC,2021,Konsultasi Pemerintah,Kemendiktisaintek,Naskah akademik
+3,D0012,MGT,2021,Konsultasi Industri,BRIN,Policy brief
+4,D0067,MTH,2021,Konsultasi Industri,Dinas Pendidikan Jawa Barat,Modul/pedoman
+5,D0012,MGT,2022,Penyusunan Kebijakan,Asosiasi Industri,Rekomendasi kebijakan
+6,D0056,EDU,2022,Konsultasi Industri,Pemprov DKI Jakarta,Policy brief
+7,D0031,EEE,2022,Penyusunan Kebijakan,BRIN,Rekomendasi kebijakan
+8,D0029,CSE,2022,Konsultasi Industri,Asosiasi Industri,Policy brief
+9,D0058,EDU,2022,Penyusunan Kebijakan,Kemendiktisaintek,Naskah akademik
+10,D0024,CSE,2022,Konsultasi Industri,Pemkot Bekasi,Policy brief
+11,D0010,MGT,2022,Tenaga Ahli Lembaga,BRIN,Naskah akademik
+12,D0049,IND,2022,Penyusunan Kebijakan,Pemprov DKI Jakarta,Policy brief
+13,D0027,CSE,2022,Penyusunan Kebijakan,Bappenas,Modul/pedoman
+14,D0040,MEC,2023,Tenaga Ahli Lembaga,Asosiasi Industri,Modul/pedoman
+15,D0012,MGT,2023,Tenaga Ahli Lembaga,Kadin,Policy brief
+16,D0052,EDU,2023,Penyusunan Kebijakan,Kadin,Policy brief
+17,D0040,MEC,2023,Penyusunan Kebijakan,Pemkot Bekasi,Naskah akademik
+18,D0029,CSE,2024,Penyusunan Kebijakan,Kemendiktisaintek,Naskah akademik
+19,D0080,PSY,2024,Konsultasi Industri,Bappenas,Rekomendasi kebijakan
+20,D0019,BIS,2024,Penyusunan Kebijakan,BRIN,Modul/pedoman
+21,D0037,EEE,2024,Konsultasi Industri,Kadin,Policy brief
+22,D0084,PSY,2024,Tenaga Ahli Lembaga,Bappenas,Policy brief
+23,D0038,EEE,2025,Tenaga Ahli Lembaga,Pemkot Bekasi,Rekomendasi kebijakan
+24,D0071,MTH,2025,Konsultasi Pemerintah,Dinas Pendidikan Jawa Barat,Naskah akademik
+25,D0037,EEE,2025,Tenaga Ahli Lembaga,Kadin,Policy brief
+26,D0055,EDU,2025,Konsultasi Industri,Asosiasi Industri,Policy brief
+27,D0017,BIS,2025,Tenaga Ahli Lembaga,Pemprov DKI Jakarta,Naskah akademik
+28,D0069,MTH,2026,Tenaga Ahli Lembaga,Bappenas,Naskah akademik
+29,D0070,MTH,2026,Penyusunan Kebijakan,Kadin,Rekomendasi kebijakan
+30,D0077,PAD,2026,Penyusunan Kebijakan,Pemprov DKI Jakarta,Policy brief
+31,D0011,MGT,2026,Tenaga Ahli Lembaga,Pemkot Bekasi,Naskah akademik
+32,D0071,MTH,2026,Konsultasi Pemerintah,Kadin,Naskah akademik
+33,D0011,MGT,2026,Penyusunan Kebijakan,Dinas Pendidikan Jawa Barat,Policy brief
+34,D0046,IND,2026,Konsultasi Pemerintah,Kadin,Modul/pedoman
+35,D0042,MEC,2026,Konsultasi Pemerintah,Pemkot Bekasi,Naskah akademik

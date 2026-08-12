@@ -1,0 +1,53 @@
+kerjasama_id,nama_mitra,jenis_mitra,program_terkait_id,tahun_mulai,tahun_berakhir,status,ada_hilirisasi,jenis_luaran,nilai_kontrak_rupiah,deskripsi_dampak
+1,PT Telkom Indonesia,Industri,BIS,2026,,Aktif,True,Kebijakan mitra,840000000,Kolaborasi riset terapan dan magang bersertifikat
+2,SMAN 1 Bekasi,Sekolah,EEE,2024,,Aktif,False,,100000000,Program pengabdian dan pelatihan bersama
+3,Universitas Indonesia,Lembaga,PSY,2021,,Aktif,True,Modul pelatihan,475000000,Kolaborasi riset terapan dan magang bersertifikat
+4,PT Astra International,Industri,ACC,2021,,Aktif,False,,165000000,Program pengabdian dan pelatihan bersama
+5,Google Indonesia,Industri,ACC,2024,2026,Selesai,False,,240000000,Program pengabdian dan pelatihan bersama
+6,PT Pertamina,Industri,MGT,2026,,Aktif,True,Produk/Prototipe,35000000,Kolaborasi riset terapan dan magang bersertifikat
+7,BRIN,Lembaga,ENG,2022,,Aktif,False,,65000000,Program pengabdian dan pelatihan bersama
+8,Dinas Pendidikan Jabar,Pemerintah,EEE,2026,2026,Selesai,True,Kebijakan mitra,235000000,Kolaborasi riset terapan dan magang bersertifikat
+9,Universitas Indonesia,Lembaga,EDU,2022,,Aktif,False,,200000000,Program pengabdian dan pelatihan bersama
+10,Bank Mandiri,Industri,MGT,2021,,Aktif,False,,650000000,Program pengabdian dan pelatihan bersama
+11,PT Telkom Indonesia,Industri,PAD,2023,,Aktif,False,,260000000,Program pengabdian dan pelatihan bersama
+12,SMKN 2 Jakarta,Sekolah,BIS,2025,,Aktif,False,,245000000,Program pengabdian dan pelatihan bersama
+13,BRIN,Lembaga,ACC,2021,,Aktif,False,,645000000,Program pengabdian dan pelatihan bersama
+14,Kemendiktisaintek,Pemerintah,ENG,2024,2026,Selesai,True,Modul pelatihan,395000000,Kolaborasi riset terapan dan magang bersertifikat
+15,Dinas Pendidikan Jabar,Pemerintah,PAD,2026,2026,Selesai,True,Lisensi/HKI,105000000,Kolaborasi riset terapan dan magang bersertifikat
+16,PT Telkom Indonesia,Industri,BIS,2021,2022,Selesai,False,,305000000,Program pengabdian dan pelatihan bersama
+17,PT Pertamina,Industri,PAD,2026,,Aktif,True,Kebijakan mitra,115000000,Kolaborasi riset terapan dan magang bersertifikat
+18,Pemkot Bekasi,Pemerintah,PAD,2025,,Aktif,False,,770000000,Program pengabdian dan pelatihan bersama
+19,Bank Mandiri,Industri,ENG,2022,,Aktif,True,Modul pelatihan,220000000,Kolaborasi riset terapan dan magang bersertifikat
+20,Google Indonesia,Industri,BIS,2024,,Aktif,False,,25000000,Program pengabdian dan pelatihan bersama
+21,LIPI Press,Lembaga,PAD,2022,2025,Selesai,False,,545000000,Program pengabdian dan pelatihan bersama
+22,Tokopedia,Industri,EEE,2026,2026,Selesai,False,,385000000,Program pengabdian dan pelatihan bersama
+23,SMAN 1 Bekasi,Sekolah,PAD,2024,2025,Selesai,False,,585000000,Program pengabdian dan pelatihan bersama
+24,Dinas Pendidikan Jabar,Pemerintah,EDU,2023,2025,Selesai,True,Lisensi/HKI,855000000,Kolaborasi riset terapan dan magang bersertifikat
+25,SMKN 2 Jakarta,Sekolah,EDU,2021,,Aktif,False,,870000000,Program pengabdian dan pelatihan bersama
+26,SMAN 1 Bekasi,Sekolah,MTH,2025,,Aktif,False,,65000000,Program pengabdian dan pelatihan bersama
+27,Pemkot Bekasi,Pemerintah,PAD,2026,,Aktif,False,,640000000,Program pengabdian dan pelatihan bersama
+28,Tokopedia,Industri,IND,2021,,Aktif,True,Lisensi/HKI,725000000,Kolaborasi riset terapan dan magang bersertifikat
+29,LIPI Press,Lembaga,ENG,2021,,Aktif,False,,790000000,Program pengabdian dan pelatihan bersama
+30,Google Indonesia,Industri,IND,2021,,Aktif,False,,130000000,Program pengabdian dan pelatihan bersama
+31,Universitas Indonesia,Lembaga,MTH,2022,2024,Selesai,False,,200000000,Program pengabdian dan pelatihan bersama
+32,PT Pertamina,Industri,MGT,2023,,Aktif,False,,355000000,Program pengabdian dan pelatihan bersama
+33,BRIN,Lembaga,PAD,2021,2023,Selesai,False,,885000000,Program pengabdian dan pelatihan bersama
+34,SMAN 1 Bekasi,Sekolah,MGT,2025,,Aktif,False,,385000000,Program pengabdian dan pelatihan bersama
+35,PT Pertamina,Industri,BIS,2022,,Aktif,False,,290000000,Program pengabdian dan pelatihan bersama
+36,PT Pertamina,Industri,MTH,2021,,Aktif,True,Lisensi/HKI,705000000,Kolaborasi riset terapan dan magang bersertifikat
+37,Kemendiktisaintek,Pemerintah,MTH,2025,2026,Selesai,True,Kebijakan mitra,860000000,Kolaborasi riset terapan dan magang bersertifikat
+38,PT Pertamina,Industri,ENG,2023,,Aktif,False,,720000000,Program pengabdian dan pelatihan bersama
+39,Universitas Indonesia,Lembaga,PSY,2024,,Aktif,False,,435000000,Program pengabdian dan pelatihan bersama
+40,Pemkot Bekasi,Pemerintah,ENG,2024,2026,Selesai,False,,345000000,Program pengabdian dan pelatihan bersama
+41,Universitas Indonesia,Lembaga,MEC,2021,,Aktif,False,,855000000,Program pengabdian dan pelatihan bersama
+42,SMAN 1 Bekasi,Sekolah,ACC,2021,,Aktif,False,,360000000,Program pengabdian dan pelatihan bersama
+43,BRIN,Lembaga,MEC,2021,,Aktif,False,,235000000,Program pengabdian dan pelatihan bersama
+44,LIPI Press,Lembaga,ACC,2026,,Aktif,False,,190000000,Program pengabdian dan pelatihan bersama
+45,SMAN 1 Bekasi,Sekolah,PSY,2022,,Aktif,False,,375000000,Program pengabdian dan pelatihan bersama
+46,Kemendiktisaintek,Pemerintah,ENG,2021,,Aktif,False,,730000000,Program pengabdian dan pelatihan bersama
+47,Pemprov DKI Jakarta,Pemerintah,PAD,2021,,Aktif,False,,350000000,Program pengabdian dan pelatihan bersama
+48,Bank Mandiri,Industri,PSY,2025,,Aktif,False,,130000000,Program pengabdian dan pelatihan bersama
+49,Bank Mandiri,Industri,ACC,2025,,Aktif,False,,170000000,Program pengabdian dan pelatihan bersama
+50,Kemendiktisaintek,Pemerintah,MGT,2021,,Aktif,False,,355000000,Program pengabdian dan pelatihan bersama
+51,LIPI Press,Lembaga,BIS,2023,,Aktif,False,,445000000,Program pengabdian dan pelatihan bersama
+52,Pemkot Bekasi,Pemerintah,EDU,2021,,Aktif,True,Modul pelatihan,690000000,Kolaborasi riset terapan dan magang bersertifikat

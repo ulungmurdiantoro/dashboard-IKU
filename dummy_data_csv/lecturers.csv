@@ -1,0 +1,84 @@
+dosen_id,name,program_id,jabatan_akademik,status_sertifikasi,pendidikan_terakhir,tahun_mulai_kerja
+D0001,Dosen 0001,ACC,Asisten Ahli,Sudah,S2,2006
+D0002,Dosen 0002,ACC,Lektor,Sudah,S2,2018
+D0003,Dosen 0003,ACC,Asisten Ahli,Belum,S3,2014
+D0004,Dosen 0004,ACC,Lektor,Sudah,S2,2011
+D0005,Dosen 0005,ACC,Asisten Ahli,Belum,S2,2014
+D0006,Dosen 0006,ACC,Lektor,Belum,S2,2012
+D0007,Dosen 0007,ACC,Lektor,Belum,S2,2015
+D0008,Dosen 0008,ACC,Lektor,Sudah,S2,2017
+D0009,Dosen 0009,ACC,Asisten Ahli,Belum,S2,2023
+D0010,Dosen 0010,MGT,Lektor,Sudah,S2,2006
+D0011,Dosen 0011,MGT,Asisten Ahli,Sudah,S2,2005
+D0012,Dosen 0012,MGT,Lektor,Sudah,S3,2015
+D0013,Dosen 0013,MGT,Lektor,Sudah,S2,2016
+D0014,Dosen 0014,MGT,Lektor,Sudah,S2,2011
+D0015,Dosen 0015,MGT,Lektor,Sudah,S2,2012
+D0016,Dosen 0016,MGT,Lektor,Sudah,S3,2014
+D0017,Dosen 0017,MGT,Lektor,Belum,S3,2012
+D0018,Dosen 0018,MGT,Lektor,Sudah,S2,2007
+D0019,Dosen 0019,MGT,Lektor Kepala,Sudah,S2,2015
+D0020,Dosen 0020,CS,Asisten Ahli,Sudah,S3,2013
+D0021,Dosen 0021,CS,Asisten Ahli,Sudah,S2,2018
+D0022,Dosen 0022,CS,Lektor,Sudah,S3,2008
+D0023,Dosen 0023,CS,Guru Besar,Sudah,S2,2011
+D0024,Dosen 0024,CS,Lektor,Sudah,S2,2014
+D0025,Dosen 0025,CS,Lektor Kepala,Belum,S2,2021
+D0026,Dosen 0026,CS,Asisten Ahli,Sudah,S2,2005
+D0027,Dosen 0027,CS,Lektor,Sudah,S2,2014
+D0028,Dosen 0028,CS,Lektor,Sudah,S2,2012
+D0029,Dosen 0029,CS,Lektor,Sudah,S2,2014
+D0030,Dosen 0030,CS,Lektor,Sudah,S2,2020
+D0031,Dosen 0031,CS,Lektor Kepala,Belum,S2,2009
+D0032,Dosen 0032,CS,Guru Besar,Sudah,S2,2010
+D0033,Dosen 0033,IS,Lektor Kepala,Sudah,S2,2016
+D0034,Dosen 0034,IS,Asisten Ahli,Sudah,S2,2020
+D0035,Dosen 0035,IS,Asisten Ahli,Sudah,S2,2024
+D0036,Dosen 0036,IS,Lektor,Belum,S3,2022
+D0037,Dosen 0037,IS,Lektor,Sudah,S2,2007
+D0038,Dosen 0038,IS,Asisten Ahli,Sudah,S2,2016
+D0039,Dosen 0039,IS,Lektor,Sudah,S2,2011
+D0040,Dosen 0040,IE,Lektor Kepala,Sudah,S2,2017
+D0041,Dosen 0041,IE,Lektor Kepala,Belum,S2,2012
+D0042,Dosen 0042,IE,Lektor,Belum,S2,2023
+D0043,Dosen 0043,IE,Lektor,Belum,S3,2010
+D0044,Dosen 0044,IE,Lektor Kepala,Sudah,S2,2021
+D0045,Dosen 0045,IE,Asisten Ahli,Sudah,S2,2015
+D0046,Dosen 0046,ME,Lektor,Sudah,S2,2007
+D0047,Dosen 0047,ME,Lektor,Sudah,S2,2010
+D0048,Dosen 0048,ME,Asisten Ahli,Belum,S2,2017
+D0049,Dosen 0049,ME,Asisten Ahli,Belum,S3,2013
+D0050,Dosen 0050,ME,Lektor,Belum,S2,2010
+D0051,Dosen 0051,MTE,Lektor,Sudah,S2,2005
+D0052,Dosen 0052,MTE,Lektor,Belum,S3,2016
+D0053,Dosen 0053,MTE,Lektor Kepala,Sudah,S2,2016
+D0054,Dosen 0054,MTE,Lektor,Sudah,S2,2016
+D0055,Dosen 0055,ELE,Lektor Kepala,Belum,S2,2011
+D0056,Dosen 0056,ELE,Asisten Ahli,Sudah,S2,2021
+D0057,Dosen 0057,ELE,Lektor,Sudah,S3,2013
+D0058,Dosen 0058,ELE,Asisten Ahli,Sudah,S2,2012
+D0059,Dosen 0059,ELT,Lektor,Belum,S2,2010
+D0060,Dosen 0060,ELT,Lektor,Sudah,S2,2023
+D0061,Dosen 0061,ELT,Lektor,Sudah,S2,2014
+D0062,Dosen 0062,ELT,Asisten Ahli,Sudah,S2,2006
+D0063,Dosen 0063,VCD,Asisten Ahli,Belum,S2,2021
+D0064,Dosen 0064,VCD,Lektor,Sudah,S2,2008
+D0065,Dosen 0065,VCD,Lektor,Sudah,S2,2023
+D0066,Dosen 0066,VCD,Asisten Ahli,Sudah,S2,2015
+D0067,Dosen 0067,VCD,Lektor Kepala,Sudah,S2,2009
+D0068,Dosen 0068,VCD,Lektor Kepala,Sudah,S2,2014
+D0069,Dosen 0069,VCD,Guru Besar,Belum,S3,2022
+D0070,Dosen 0070,VCD,Lektor,Belum,S2,2005
+D0071,Dosen 0071,PSY,Lektor,Sudah,S2,2023
+D0072,Dosen 0072,PSY,Lektor Kepala,Sudah,S2,2020
+D0073,Dosen 0073,PSY,Lektor,Belum,S2,2012
+D0074,Dosen 0074,PSY,Asisten Ahli,Sudah,S2,2010
+D0075,Dosen 0075,PSY,Asisten Ahli,Sudah,S3,2024
+D0076,Dosen 0076,PSY,Lektor,Sudah,S2,2014
+D0077,Dosen 0077,PSY,Asisten Ahli,Sudah,S3,2021
+D0078,Dosen 0078,PSY,Asisten Ahli,Sudah,S2,2008
+D0079,Dosen 0079,PSY,Asisten Ahli,Sudah,S2,2014
+D0080,Dosen 0080,UND,Asisten Ahli,Belum,S2,2024
+D0081,Dosen 0081,UND,Asisten Ahli,Belum,S2,2008
+D0082,Dosen 0082,UND,Asisten Ahli,Sudah,S3,2022
+D0083,Dosen 0083,UND,Lektor,Sudah,S3,2007

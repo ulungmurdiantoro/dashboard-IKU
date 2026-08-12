@@ -1,0 +1,25 @@
+id,tahun,kategori,skor_atau_status
+1,2021,Audit Keuangan,Cukup
+2,2021,SAKIP,Baik
+3,2021,Integritas Akademik,Cukup
+4,2021,Anti Korupsi,Sangat Baik
+5,2022,Audit Keuangan,Baik
+6,2022,SAKIP,Cukup
+7,2022,Integritas Akademik,Baik
+8,2022,Anti Korupsi,Sangat Baik
+9,2023,Audit Keuangan,Sangat Baik
+10,2023,SAKIP,Sangat Baik
+11,2023,Integritas Akademik,Sangat Baik
+12,2023,Anti Korupsi,Cukup
+13,2024,Audit Keuangan,Sangat Baik
+14,2024,SAKIP,Cukup
+15,2024,Integritas Akademik,Cukup
+16,2024,Anti Korupsi,Baik
+17,2025,Audit Keuangan,Sangat Baik
+18,2025,SAKIP,Sangat Baik
+19,2025,Integritas Akademik,Baik
+20,2025,Anti Korupsi,Cukup
+21,2026,Audit Keuangan,Baik
+22,2026,SAKIP,Baik
+23,2026,Integritas Akademik,Sangat Baik
+24,2026,Anti Korupsi,Sangat Baik

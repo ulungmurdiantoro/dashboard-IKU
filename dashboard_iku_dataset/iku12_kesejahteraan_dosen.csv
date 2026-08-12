@@ -1,0 +1,505 @@
+dosen_id,program_id,tahun,kategori_tunjangan,ikut_pengembangan_karir,status_perlindungan,ada_rencana_peningkatan
+D0001,ACC,2021,Fungsional,False,BPJS Kesehatan saja,False
+D0001,ACC,2022,Fungsional,False,BPJS Kesehatan saja,False
+D0001,ACC,2023,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0001,ACC,2024,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0001,ACC,2025,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0001,ACC,2026,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0002,ACC,2021,Tidak Ada,False,BPJS Kesehatan saja,False
+D0002,ACC,2022,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0002,ACC,2023,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0002,ACC,2024,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0002,ACC,2025,Fungsional,False,BPJS Kesehatan saja,True
+D0002,ACC,2026,Fungsional,True,Tidak Ada,True
+D0003,ACC,2021,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0003,ACC,2022,Tidak Ada,True,Tidak Ada,True
+D0003,ACC,2023,Kinerja,False,BPJS Kesehatan saja,True
+D0003,ACC,2024,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0003,ACC,2025,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0003,ACC,2026,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0004,ACC,2021,Kinerja,True,BPJS Kesehatan saja,False
+D0004,ACC,2022,Kinerja,False,BPJS Kesehatan saja,False
+D0004,ACC,2023,Sertifikasi Dosen,False,Tidak Ada,False
+D0004,ACC,2024,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0004,ACC,2025,Tidak Ada,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0004,ACC,2026,Fungsional,True,BPJS Kesehatan saja,False
+D0005,ACC,2021,Fungsional,False,BPJS Kesehatan saja,False
+D0005,ACC,2022,Kinerja,False,BPJS Kesehatan saja,False
+D0005,ACC,2023,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0005,ACC,2024,Sertifikasi Dosen,False,Tidak Ada,True
+D0005,ACC,2025,Fungsional,True,BPJS Kesehatan saja,False
+D0005,ACC,2026,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0006,ACC,2021,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0006,ACC,2022,Fungsional,True,BPJS Kesehatan saja,False
+D0006,ACC,2023,Fungsional,True,BPJS Kesehatan saja,False
+D0006,ACC,2024,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0006,ACC,2025,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0006,ACC,2026,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0007,ACC,2021,Tidak Ada,False,BPJS Kesehatan saja,True
+D0007,ACC,2022,Fungsional,True,BPJS Kesehatan saja,True
+D0007,ACC,2023,Tidak Ada,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0007,ACC,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0007,ACC,2025,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0007,ACC,2026,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0008,MGT,2021,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0008,MGT,2022,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0008,MGT,2023,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0008,MGT,2024,Fungsional,True,BPJS Kesehatan saja,True
+D0008,MGT,2025,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0008,MGT,2026,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0009,MGT,2021,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0009,MGT,2022,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0009,MGT,2023,Kinerja,True,BPJS Kesehatan saja,True
+D0009,MGT,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0009,MGT,2025,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0009,MGT,2026,Fungsional,True,BPJS Kesehatan saja,True
+D0010,MGT,2021,Tidak Ada,True,BPJS Kesehatan saja,True
+D0010,MGT,2022,Tidak Ada,False,BPJS Kesehatan saja,True
+D0010,MGT,2023,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0010,MGT,2024,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0010,MGT,2025,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0010,MGT,2026,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0011,MGT,2021,Tidak Ada,True,Tidak Ada,True
+D0011,MGT,2022,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0011,MGT,2023,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0011,MGT,2024,Tidak Ada,True,BPJS Kesehatan saja,False
+D0011,MGT,2025,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0011,MGT,2026,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0012,MGT,2021,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0012,MGT,2022,Tidak Ada,False,BPJS Kesehatan saja,False
+D0012,MGT,2023,Sertifikasi Dosen,True,BPJS Kesehatan saja,False
+D0012,MGT,2024,Fungsional,True,BPJS Kesehatan saja,False
+D0012,MGT,2025,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0012,MGT,2026,Tidak Ada,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0013,MGT,2021,Fungsional,False,BPJS Kesehatan saja,False
+D0013,MGT,2022,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0013,MGT,2023,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0013,MGT,2024,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0013,MGT,2025,Fungsional,False,BPJS Kesehatan saja,True
+D0013,MGT,2026,Tidak Ada,False,BPJS Kesehatan saja,True
+D0014,BIS,2021,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0014,BIS,2022,Tidak Ada,False,BPJS Kesehatan saja,False
+D0014,BIS,2023,Kinerja,False,Tidak Ada,False
+D0014,BIS,2024,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0014,BIS,2025,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0014,BIS,2026,Tidak Ada,False,BPJS Kesehatan saja,False
+D0015,BIS,2021,Fungsional,True,Tidak Ada,False
+D0015,BIS,2022,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0015,BIS,2023,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0015,BIS,2024,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0015,BIS,2025,Tidak Ada,True,BPJS Kesehatan saja,True
+D0015,BIS,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0016,BIS,2021,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0016,BIS,2022,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0016,BIS,2023,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0016,BIS,2024,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0016,BIS,2025,Tidak Ada,True,Tidak Ada,True
+D0016,BIS,2026,Sertifikasi Dosen,True,Tidak Ada,True
+D0017,BIS,2021,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0017,BIS,2022,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0017,BIS,2023,Sertifikasi Dosen,False,BPJS Kesehatan saja,True
+D0017,BIS,2024,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0017,BIS,2025,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0017,BIS,2026,Tidak Ada,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0018,BIS,2021,Tidak Ada,False,BPJS Kesehatan saja,False
+D0018,BIS,2022,Fungsional,False,BPJS Kesehatan saja,False
+D0018,BIS,2023,Kinerja,False,BPJS Kesehatan saja,True
+D0018,BIS,2024,Kinerja,False,BPJS Kesehatan saja,False
+D0018,BIS,2025,Fungsional,True,BPJS Kesehatan saja,False
+D0018,BIS,2026,Fungsional,True,BPJS Kesehatan saja,True
+D0019,BIS,2021,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0019,BIS,2022,Fungsional,True,BPJS Kesehatan saja,True
+D0019,BIS,2023,Tidak Ada,True,BPJS Kesehatan saja,False
+D0019,BIS,2024,Sertifikasi Dosen,True,BPJS Kesehatan saja,False
+D0019,BIS,2025,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0019,BIS,2026,Fungsional,False,BPJS Kesehatan saja,True
+D0020,BIS,2021,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0020,BIS,2022,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0020,BIS,2023,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0020,BIS,2024,Tidak Ada,True,Tidak Ada,False
+D0020,BIS,2025,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0020,BIS,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0021,BIS,2021,Kinerja,False,BPJS Kesehatan saja,True
+D0021,BIS,2022,Fungsional,False,BPJS Kesehatan saja,False
+D0021,BIS,2023,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0021,BIS,2024,Fungsional,False,BPJS Kesehatan saja,False
+D0021,BIS,2025,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0021,BIS,2026,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0022,BIS,2021,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0022,BIS,2022,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0022,BIS,2023,Kinerja,False,BPJS Kesehatan saja,False
+D0022,BIS,2024,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0022,BIS,2025,Fungsional,False,BPJS Kesehatan saja,False
+D0022,BIS,2026,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0023,CSE,2021,Fungsional,True,BPJS Kesehatan saja,True
+D0023,CSE,2022,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0023,CSE,2023,Tidak Ada,True,BPJS Kesehatan saja,True
+D0023,CSE,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0023,CSE,2025,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0023,CSE,2026,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0024,CSE,2021,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0024,CSE,2022,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0024,CSE,2023,Tidak Ada,True,Tidak Ada,True
+D0024,CSE,2024,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0024,CSE,2025,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0024,CSE,2026,Tidak Ada,True,BPJS Kesehatan saja,True
+D0025,CSE,2021,Fungsional,True,BPJS Kesehatan saja,False
+D0025,CSE,2022,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0025,CSE,2023,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0025,CSE,2024,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0025,CSE,2025,Fungsional,True,BPJS Kesehatan saja,True
+D0025,CSE,2026,Tidak Ada,True,BPJS Kesehatan saja,True
+D0026,CSE,2021,Kinerja,False,BPJS Kesehatan saja,False
+D0026,CSE,2022,Fungsional,False,BPJS Kesehatan saja,False
+D0026,CSE,2023,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0026,CSE,2024,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0026,CSE,2025,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0026,CSE,2026,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0027,CSE,2021,Fungsional,False,BPJS Kesehatan saja,False
+D0027,CSE,2022,Tidak Ada,False,Tidak Ada,True
+D0027,CSE,2023,Kinerja,False,Tidak Ada,False
+D0027,CSE,2024,Sertifikasi Dosen,False,BPJS Kesehatan saja,True
+D0027,CSE,2025,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0027,CSE,2026,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0028,CSE,2021,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0028,CSE,2022,Sertifikasi Dosen,True,Tidak Ada,True
+D0028,CSE,2023,Fungsional,False,BPJS Kesehatan saja,False
+D0028,CSE,2024,Sertifikasi Dosen,False,BPJS Kesehatan saja,True
+D0028,CSE,2025,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0028,CSE,2026,Tidak Ada,False,BPJS Kesehatan saja,True
+D0029,CSE,2021,Kinerja,False,BPJS Kesehatan saja,False
+D0029,CSE,2022,Fungsional,False,BPJS Kesehatan saja,False
+D0029,CSE,2023,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0029,CSE,2024,Tidak Ada,False,Tidak Ada,False
+D0029,CSE,2025,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0029,CSE,2026,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0030,CSE,2021,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0030,CSE,2022,Fungsional,False,BPJS Kesehatan saja,True
+D0030,CSE,2023,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0030,CSE,2024,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0030,CSE,2025,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0030,CSE,2026,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0031,EEE,2021,Fungsional,False,BPJS Kesehatan saja,False
+D0031,EEE,2022,Kinerja,False,Tidak Ada,False
+D0031,EEE,2023,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0031,EEE,2024,Kinerja,True,BPJS Kesehatan saja,True
+D0031,EEE,2025,Tidak Ada,False,BPJS Kesehatan saja,True
+D0031,EEE,2026,Sertifikasi Dosen,True,BPJS Kesehatan saja,False
+D0032,EEE,2021,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0032,EEE,2022,Kinerja,True,BPJS Kesehatan saja,False
+D0032,EEE,2023,Fungsional,False,BPJS Kesehatan saja,True
+D0032,EEE,2024,Sertifikasi Dosen,True,BPJS Kesehatan saja,False
+D0032,EEE,2025,Kinerja,True,BPJS Kesehatan saja,True
+D0032,EEE,2026,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0033,EEE,2021,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0033,EEE,2022,Tidak Ada,False,BPJS Kesehatan saja,False
+D0033,EEE,2023,Kinerja,False,BPJS Kesehatan saja,True
+D0033,EEE,2024,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0033,EEE,2025,Kinerja,False,BPJS Kesehatan saja,True
+D0033,EEE,2026,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0034,EEE,2021,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0034,EEE,2022,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0034,EEE,2023,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0034,EEE,2024,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0034,EEE,2025,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0034,EEE,2026,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0035,EEE,2021,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0035,EEE,2022,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0035,EEE,2023,Sertifikasi Dosen,False,BPJS Kesehatan saja,True
+D0035,EEE,2024,Fungsional,False,BPJS Kesehatan saja,True
+D0035,EEE,2025,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0035,EEE,2026,Kinerja,True,BPJS Kesehatan saja,True
+D0036,EEE,2021,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0036,EEE,2022,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0036,EEE,2023,Fungsional,True,BPJS Kesehatan saja,True
+D0036,EEE,2024,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0036,EEE,2025,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0036,EEE,2026,Tidak Ada,True,BPJS Kesehatan saja,True
+D0037,EEE,2021,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0037,EEE,2022,Kinerja,True,BPJS Kesehatan saja,False
+D0037,EEE,2023,Kinerja,True,Tidak Ada,True
+D0037,EEE,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0037,EEE,2025,Sertifikasi Dosen,True,BPJS Kesehatan saja,False
+D0037,EEE,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0038,EEE,2021,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0038,EEE,2022,Kinerja,True,BPJS Kesehatan saja,False
+D0038,EEE,2023,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0038,EEE,2024,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0038,EEE,2025,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0038,EEE,2026,Sertifikasi Dosen,False,Tidak Ada,True
+D0039,MEC,2021,Kinerja,True,BPJS Kesehatan saja,True
+D0039,MEC,2022,Kinerja,True,BPJS Kesehatan saja,True
+D0039,MEC,2023,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0039,MEC,2024,Fungsional,True,BPJS Kesehatan saja,True
+D0039,MEC,2025,Kinerja,True,BPJS Kesehatan saja,True
+D0039,MEC,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0040,MEC,2021,Fungsional,False,BPJS Kesehatan saja,False
+D0040,MEC,2022,Kinerja,False,BPJS Kesehatan saja,True
+D0040,MEC,2023,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0040,MEC,2024,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0040,MEC,2025,Sertifikasi Dosen,True,Tidak Ada,False
+D0040,MEC,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0041,MEC,2021,Fungsional,True,Tidak Ada,True
+D0041,MEC,2022,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0041,MEC,2023,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0041,MEC,2024,Tidak Ada,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0041,MEC,2025,Tidak Ada,True,BPJS Kesehatan saja,True
+D0041,MEC,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0042,MEC,2021,Kinerja,False,Tidak Ada,True
+D0042,MEC,2022,Fungsional,False,BPJS Kesehatan saja,False
+D0042,MEC,2023,Sertifikasi Dosen,True,BPJS Kesehatan saja,False
+D0042,MEC,2024,Tidak Ada,False,Tidak Ada,True
+D0042,MEC,2025,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0042,MEC,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0043,MEC,2021,Fungsional,False,BPJS Kesehatan saja,True
+D0043,MEC,2022,Kinerja,False,BPJS Kesehatan saja,False
+D0043,MEC,2023,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0043,MEC,2024,Tidak Ada,False,BPJS Kesehatan saja,False
+D0043,MEC,2025,Kinerja,False,BPJS Kesehatan saja,True
+D0043,MEC,2026,Kinerja,True,BPJS Kesehatan saja,True
+D0044,MEC,2021,Sertifikasi Dosen,True,Tidak Ada,True
+D0044,MEC,2022,Sertifikasi Dosen,False,BPJS Kesehatan saja,True
+D0044,MEC,2023,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0044,MEC,2024,Fungsional,True,BPJS Kesehatan saja,True
+D0044,MEC,2025,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0044,MEC,2026,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0045,MEC,2021,Kinerja,False,BPJS Kesehatan saja,False
+D0045,MEC,2022,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0045,MEC,2023,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0045,MEC,2024,Kinerja,False,BPJS Kesehatan saja,True
+D0045,MEC,2025,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0045,MEC,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0046,IND,2021,Sertifikasi Dosen,True,Tidak Ada,True
+D0046,IND,2022,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0046,IND,2023,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0046,IND,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0046,IND,2025,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0046,IND,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0047,IND,2021,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0047,IND,2022,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0047,IND,2023,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0047,IND,2024,Kinerja,True,BPJS Kesehatan saja,True
+D0047,IND,2025,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0047,IND,2026,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0048,IND,2021,Fungsional,True,BPJS Kesehatan saja,False
+D0048,IND,2022,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0048,IND,2023,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0048,IND,2024,Tidak Ada,False,BPJS Kesehatan saja,False
+D0048,IND,2025,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0048,IND,2026,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0049,IND,2021,Kinerja,False,BPJS Kesehatan saja,False
+D0049,IND,2022,Sertifikasi Dosen,False,BPJS Kesehatan saja,True
+D0049,IND,2023,Fungsional,False,BPJS Kesehatan saja,False
+D0049,IND,2024,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0049,IND,2025,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0049,IND,2026,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0050,IND,2021,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0050,IND,2022,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0050,IND,2023,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0050,IND,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0050,IND,2025,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0050,IND,2026,Fungsional,True,Tidak Ada,False
+D0051,IND,2021,Fungsional,False,BPJS Kesehatan saja,False
+D0051,IND,2022,Fungsional,False,BPJS Kesehatan saja,False
+D0051,IND,2023,Fungsional,False,BPJS Kesehatan saja,False
+D0051,IND,2024,Kinerja,False,BPJS Kesehatan saja,False
+D0051,IND,2025,Sertifikasi Dosen,False,Tidak Ada,False
+D0051,IND,2026,Fungsional,False,BPJS Kesehatan saja,False
+D0052,EDU,2021,Fungsional,True,Tidak Ada,True
+D0052,EDU,2022,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0052,EDU,2023,Tidak Ada,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0052,EDU,2024,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0052,EDU,2025,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0052,EDU,2026,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0053,EDU,2021,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0053,EDU,2022,Fungsional,False,Tidak Ada,True
+D0053,EDU,2023,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0053,EDU,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0053,EDU,2025,Sertifikasi Dosen,True,Tidak Ada,False
+D0053,EDU,2026,Sertifikasi Dosen,False,BPJS Kesehatan saja,True
+D0054,EDU,2021,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0054,EDU,2022,Fungsional,False,BPJS Kesehatan saja,False
+D0054,EDU,2023,Kinerja,False,Tidak Ada,False
+D0054,EDU,2024,Tidak Ada,False,Tidak Ada,False
+D0054,EDU,2025,Tidak Ada,False,BPJS Kesehatan saja,False
+D0054,EDU,2026,Kinerja,False,BPJS Kesehatan saja,False
+D0055,EDU,2021,Sertifikasi Dosen,False,Tidak Ada,True
+D0055,EDU,2022,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0055,EDU,2023,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0055,EDU,2024,Fungsional,True,BPJS Kesehatan saja,True
+D0055,EDU,2025,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0055,EDU,2026,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0056,EDU,2021,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0056,EDU,2022,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0056,EDU,2023,Tidak Ada,True,Tidak Ada,True
+D0056,EDU,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0056,EDU,2025,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0056,EDU,2026,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0057,EDU,2021,Fungsional,True,BPJS Kesehatan saja,False
+D0057,EDU,2022,Sertifikasi Dosen,True,BPJS Kesehatan saja,False
+D0057,EDU,2023,Tidak Ada,False,BPJS Kesehatan saja,True
+D0057,EDU,2024,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0057,EDU,2025,Fungsional,False,BPJS Kesehatan saja,True
+D0057,EDU,2026,Tidak Ada,True,BPJS Kesehatan saja,False
+D0058,EDU,2021,Fungsional,False,Tidak Ada,False
+D0058,EDU,2022,Fungsional,False,BPJS Kesehatan saja,False
+D0058,EDU,2023,Fungsional,False,BPJS Kesehatan saja,False
+D0058,EDU,2024,Kinerja,False,BPJS Kesehatan saja,False
+D0058,EDU,2025,Tidak Ada,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0058,EDU,2026,Kinerja,True,BPJS Kesehatan saja,False
+D0059,EDU,2021,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0059,EDU,2022,Sertifikasi Dosen,False,Tidak Ada,False
+D0059,EDU,2023,Kinerja,False,BPJS Kesehatan saja,False
+D0059,EDU,2024,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0059,EDU,2025,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0059,EDU,2026,Tidak Ada,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0060,ENG,2021,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0060,ENG,2022,Fungsional,True,Tidak Ada,True
+D0060,ENG,2023,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0060,ENG,2024,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0060,ENG,2025,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0060,ENG,2026,Tidak Ada,True,BPJS Kesehatan saja,True
+D0061,ENG,2021,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0061,ENG,2022,Tidak Ada,True,BPJS Kesehatan saja,True
+D0061,ENG,2023,Tidak Ada,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0061,ENG,2024,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0061,ENG,2025,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0061,ENG,2026,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0062,ENG,2021,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0062,ENG,2022,Tidak Ada,False,BPJS Kesehatan saja,True
+D0062,ENG,2023,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0062,ENG,2024,Tidak Ada,False,BPJS Kesehatan saja,False
+D0062,ENG,2025,Kinerja,False,BPJS Kesehatan saja,True
+D0062,ENG,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0063,ENG,2021,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0063,ENG,2022,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0063,ENG,2023,Kinerja,True,BPJS Kesehatan saja,True
+D0063,ENG,2024,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0063,ENG,2025,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0063,ENG,2026,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0064,ENG,2021,Sertifikasi Dosen,True,Tidak Ada,False
+D0064,ENG,2022,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0064,ENG,2023,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0064,ENG,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0064,ENG,2025,Kinerja,True,BPJS Kesehatan saja,False
+D0064,ENG,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0065,ENG,2021,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0065,ENG,2022,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0065,ENG,2023,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0065,ENG,2024,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0065,ENG,2025,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0065,ENG,2026,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0066,ENG,2021,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0066,ENG,2022,Fungsional,True,BPJS Kesehatan saja,True
+D0066,ENG,2023,Fungsional,False,BPJS Kesehatan saja,True
+D0066,ENG,2024,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0066,ENG,2025,Kinerja,True,BPJS Kesehatan saja,True
+D0066,ENG,2026,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0067,MTH,2021,Sertifikasi Dosen,False,Tidak Ada,False
+D0067,MTH,2022,Tidak Ada,False,BPJS Kesehatan saja,False
+D0067,MTH,2023,Tidak Ada,True,BPJS Kesehatan saja,True
+D0067,MTH,2024,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0067,MTH,2025,Kinerja,True,BPJS Kesehatan saja,True
+D0067,MTH,2026,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0068,MTH,2021,Fungsional,False,BPJS Kesehatan saja,False
+D0068,MTH,2022,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0068,MTH,2023,Tidak Ada,False,BPJS Kesehatan saja,False
+D0068,MTH,2024,Tidak Ada,False,BPJS Kesehatan saja,False
+D0068,MTH,2025,Sertifikasi Dosen,True,BPJS Kesehatan saja,False
+D0068,MTH,2026,Kinerja,True,BPJS Kesehatan saja,False
+D0069,MTH,2021,Fungsional,True,BPJS Kesehatan saja,False
+D0069,MTH,2022,Kinerja,False,BPJS Kesehatan saja,False
+D0069,MTH,2023,Tidak Ada,False,Tidak Ada,False
+D0069,MTH,2024,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0069,MTH,2025,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0069,MTH,2026,Sertifikasi Dosen,True,BPJS Kesehatan saja,False
+D0070,MTH,2021,Fungsional,False,BPJS Kesehatan saja,False
+D0070,MTH,2022,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0070,MTH,2023,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0070,MTH,2024,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0070,MTH,2025,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0070,MTH,2026,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0071,MTH,2021,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0071,MTH,2022,Tidak Ada,True,BPJS Kesehatan saja,True
+D0071,MTH,2023,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0071,MTH,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0071,MTH,2025,Fungsional,True,BPJS Kesehatan saja,False
+D0071,MTH,2026,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0072,MTH,2021,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0072,MTH,2022,Fungsional,True,BPJS Kesehatan saja,True
+D0072,MTH,2023,Kinerja,False,Tidak Ada,True
+D0072,MTH,2024,Fungsional,False,Tidak Ada,False
+D0072,MTH,2025,Fungsional,True,Tidak Ada,True
+D0072,MTH,2026,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0073,PAD,2021,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0073,PAD,2022,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0073,PAD,2023,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0073,PAD,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0073,PAD,2025,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0073,PAD,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0074,PAD,2021,Fungsional,True,BPJS Kesehatan saja,True
+D0074,PAD,2022,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0074,PAD,2023,Tidak Ada,True,BPJS Kesehatan saja,True
+D0074,PAD,2024,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0074,PAD,2025,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0074,PAD,2026,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0075,PAD,2021,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0075,PAD,2022,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0075,PAD,2023,Fungsional,False,BPJS Kesehatan saja,True
+D0075,PAD,2024,Sertifikasi Dosen,True,BPJS Kesehatan saja,False
+D0075,PAD,2025,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0075,PAD,2026,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0076,PAD,2021,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0076,PAD,2022,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0076,PAD,2023,Kinerja,True,Tidak Ada,True
+D0076,PAD,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0076,PAD,2025,Tidak Ada,True,Tidak Ada,True
+D0076,PAD,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0077,PAD,2021,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0077,PAD,2022,Fungsional,True,BPJS Kesehatan saja,True
+D0077,PAD,2023,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0077,PAD,2024,Sertifikasi Dosen,False,Tidak Ada,True
+D0077,PAD,2025,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0077,PAD,2026,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0078,PAD,2021,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0078,PAD,2022,Kinerja,True,BPJS Kesehatan saja,False
+D0078,PAD,2023,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0078,PAD,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0078,PAD,2025,Kinerja,True,BPJS Kesehatan saja,True
+D0078,PAD,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0079,PSY,2021,Tidak Ada,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0079,PSY,2022,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0079,PSY,2023,Tidak Ada,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0079,PSY,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0079,PSY,2025,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0079,PSY,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0080,PSY,2021,Tidak Ada,True,BPJS Kesehatan saja,True
+D0080,PSY,2022,Kinerja,True,BPJS Kesehatan saja,True
+D0080,PSY,2023,Sertifikasi Dosen,True,BPJS Kesehatan saja,True
+D0080,PSY,2024,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0080,PSY,2025,Kinerja,True,BPJS Kesehatan saja,True
+D0080,PSY,2026,Kinerja,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0081,PSY,2021,Sertifikasi Dosen,False,BPJS Kesehatan saja,False
+D0081,PSY,2022,Tidak Ada,False,BPJS Kesehatan saja,False
+D0081,PSY,2023,Tidak Ada,True,Tidak Ada,True
+D0081,PSY,2024,Fungsional,False,BPJS Kesehatan saja,True
+D0081,PSY,2025,Tidak Ada,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0081,PSY,2026,Fungsional,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0082,PSY,2021,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0082,PSY,2022,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0082,PSY,2023,Tidak Ada,True,BPJS Kesehatan saja,True
+D0082,PSY,2024,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0082,PSY,2025,Tidak Ada,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0082,PSY,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,False
+D0083,PSY,2021,Kinerja,False,BPJS Kesehatan & Ketenagakerjaan,False
+D0083,PSY,2022,Kinerja,True,Tidak Ada,True
+D0083,PSY,2023,Sertifikasi Dosen,False,BPJS Kesehatan & Ketenagakerjaan,True
+D0083,PSY,2024,Tidak Ada,True,BPJS Kesehatan saja,True
+D0083,PSY,2025,Sertifikasi Dosen,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0083,PSY,2026,Fungsional,True,BPJS Kesehatan & Ketenagakerjaan,True
+D0084,PSY,2021,Fungsional,False,BPJS Kesehatan saja,False
+D0084,PSY,2022,Sertifikasi Dosen,False,BPJS Kesehatan saja,True
+D0084,PSY,2023,Fungsional,False,BPJS Kesehatan saja,True
+D0084,PSY,2024,Kinerja,True,Tidak Ada,True
+D0084,PSY,2025,Kinerja,True,BPJS Kesehatan saja,False
+D0084,PSY,2026,Kinerja,True,BPJS Kesehatan saja,False

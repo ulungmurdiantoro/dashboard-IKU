@@ -1,0 +1,13 @@
+program_id,name,faculty_id,jenjang
+ACC,Accounting,FBE,S1
+MGT,Management,FBE,S1
+CS,Computer Science,FST,S1
+IS,Information System,FST,S1
+IE,Industrial Engineering,FST,S1
+ME,Mechanical Engineering,FST,S1
+MTE,Mathematics Education,FOE,S1
+ELE,English Language Education,FOE,S1
+ELT,English Language Teaching,FOE,S1
+VCD,Visual Communication Design,FADM,S1
+PSY,Psychology,FSS,S1
+UND,Undecided (Other),GEN,S1

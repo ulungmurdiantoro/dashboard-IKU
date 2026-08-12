@@ -1,0 +1,44 @@
+kerjasama_id,nama_mitra,jenis_mitra,program_terkait_id,tahun_mulai,tahun_berakhir,status,ada_hilirisasi,deskripsi_dampak
+1,Pemkot Bekasi,Pemerintah,ACC,2023,2024,Selesai,False,Program pengabdian dan pelatihan bersama
+2,Google Indonesia,Industri,ACC,2023,,Aktif,True,Kolaborasi program magang dan riset terapan
+3,Yayasan Cinta Anak Bangsa,Lembaga,ACC,2021,,Aktif,False,Program pengabdian dan pelatihan bersama
+4,Pemkot Bekasi,Pemerintah,ACC,2022,,Aktif,True,Program pengabdian dan pelatihan bersama
+5,UNDP Indonesia,Lembaga,ACC,2025,,Aktif,False,Program pengabdian dan pelatihan bersama
+6,SMA Labschool Jakarta,Sekolah,MGT,2022,,Aktif,False,Program pengabdian dan pelatihan bersama
+7,Bank Mandiri,Industri,MGT,2025,,Aktif,False,Kolaborasi program magang dan riset terapan
+8,Traveloka,Industri,CS,2025,,Aktif,True,Kolaborasi program magang dan riset terapan
+9,Pemkot Bekasi,Pemerintah,CS,2026,,Aktif,True,Program pengabdian dan pelatihan bersama
+10,UNDP Indonesia,Lembaga,CS,2021,,Aktif,False,Program pengabdian dan pelatihan bersama
+11,Kemendikbudristek,Pemerintah,IS,2025,,Aktif,True,Program pengabdian dan pelatihan bersama
+12,SMK Telkom,Sekolah,IS,2024,2025,Selesai,False,Program pengabdian dan pelatihan bersama
+13,Kemendikbudristek,Pemerintah,IE,2025,,Aktif,True,Program pengabdian dan pelatihan bersama
+14,PT Astra International,Industri,IE,2022,,Aktif,False,Kolaborasi program magang dan riset terapan
+15,Kadin Indonesia,Lembaga,ME,2026,2028,Selesai,False,Program pengabdian dan pelatihan bersama
+16,UNDP Indonesia,Lembaga,ME,2024,,Aktif,True,Program pengabdian dan pelatihan bersama
+17,Traveloka,Industri,ME,2026,,Aktif,False,Kolaborasi program magang dan riset terapan
+18,SMK Telkom,Sekolah,ME,2026,,Aktif,True,Program pengabdian dan pelatihan bersama
+19,SMA Labschool Jakarta,Sekolah,ME,2021,,Aktif,False,Program pengabdian dan pelatihan bersama
+20,UNDP Indonesia,Lembaga,MTE,2023,,Aktif,True,Program pengabdian dan pelatihan bersama
+21,SMA Labschool Jakarta,Sekolah,MTE,2023,2024,Selesai,False,Program pengabdian dan pelatihan bersama
+22,UNDP Indonesia,Lembaga,MTE,2022,,Aktif,True,Program pengabdian dan pelatihan bersama
+23,Kemendikbudristek,Pemerintah,ELE,2025,,Aktif,False,Program pengabdian dan pelatihan bersama
+24,Tokopedia,Industri,ELE,2022,,Aktif,True,Kolaborasi program magang dan riset terapan
+25,Yayasan Cinta Anak Bangsa,Lembaga,ELE,2025,,Aktif,False,Program pengabdian dan pelatihan bersama
+26,Traveloka,Industri,ELT,2026,,Aktif,False,Kolaborasi program magang dan riset terapan
+27,Pemkot Bekasi,Pemerintah,ELT,2026,2027,Selesai,True,Program pengabdian dan pelatihan bersama
+28,SMK Telkom,Sekolah,ELT,2023,2025,Selesai,True,Program pengabdian dan pelatihan bersama
+29,PT Astra International,Industri,ELT,2026,,Aktif,True,Kolaborasi program magang dan riset terapan
+30,SMA Labschool Jakarta,Sekolah,ELT,2022,,Aktif,True,Program pengabdian dan pelatihan bersama
+31,UNDP Indonesia,Lembaga,VCD,2024,,Aktif,False,Program pengabdian dan pelatihan bersama
+32,Pemkot Bekasi,Pemerintah,VCD,2022,,Aktif,False,Program pengabdian dan pelatihan bersama
+33,Google Indonesia,Industri,VCD,2025,2026,Selesai,True,Kolaborasi program magang dan riset terapan
+34,PT Astra International,Industri,VCD,2026,,Aktif,False,Kolaborasi program magang dan riset terapan
+35,SMA Labschool Jakarta,Sekolah,VCD,2026,,Aktif,True,Program pengabdian dan pelatihan bersama
+36,Yayasan Cinta Anak Bangsa,Lembaga,PSY,2023,2025,Selesai,False,Program pengabdian dan pelatihan bersama
+37,SMK Telkom,Sekolah,PSY,2021,2022,Selesai,False,Program pengabdian dan pelatihan bersama
+38,Yayasan Cinta Anak Bangsa,Lembaga,PSY,2025,2026,Selesai,True,Program pengabdian dan pelatihan bersama
+39,Kemendikbudristek,Pemerintah,PSY,2025,,Aktif,True,Program pengabdian dan pelatihan bersama
+40,UNDP Indonesia,Lembaga,PSY,2026,2027,Selesai,True,Program pengabdian dan pelatihan bersama
+41,UNDP Indonesia,Lembaga,UND,2024,,Aktif,True,Program pengabdian dan pelatihan bersama
+42,Traveloka,Industri,UND,2026,,Aktif,False,Kolaborasi program magang dan riset terapan
+43,UNDP Indonesia,Lembaga,UND,2025,,Aktif,True,Program pengabdian dan pelatihan bersama

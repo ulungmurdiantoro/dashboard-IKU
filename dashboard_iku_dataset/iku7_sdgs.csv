@@ -1,0 +1,67 @@
+kegiatan_id,judul,sdg_terkait,tahun,unit_pelaksana,jumlah_penerima_manfaat,sumber_dana,anggaran_rupiah
+1,Program Pengabdian FSS 2021-1,SDG 1,2021,FSS,50,Hibah Eksternal,33000000
+2,Program Pengabdian FST 2021-2,SDG 8,2021,FST,677,Mitra Industri,141000000
+3,Program Pengabdian GEN 2021-3,SDG 10,2021,GEN,212,Internal,150000000
+4,Program Pengabdian FADM 2021-4,SDG 17,2021,FADM,111,Internal,179000000
+5,Program Pengabdian FSS 2021-5,SDG 3,2021,FSS,762,Hibah Eksternal,55000000
+6,Program Pengabdian GEN 2021-6,SDG 4,2021,GEN,204,Hibah Eksternal,158000000
+7,Program Pengabdian FST 2021-7,SDG 8,2021,FST,620,Internal,37000000
+8,Program Pengabdian FST 2021-8,SDG 8,2021,FST,215,Hibah Eksternal,27000000
+9,Program Pengabdian FOE 2021-9,SDG 1,2021,FOE,684,Hibah Eksternal,96000000
+10,Program Pengabdian FADM 2021-10,SDG 4,2021,FADM,345,Mitra Industri,68000000
+11,Program Pengabdian GEN 2021-11,SDG 17,2021,GEN,652,Hibah Eksternal,43000000
+12,Program Pengabdian GEN 2021-12,SDG 10,2021,GEN,237,Internal,117000000
+13,Program Pengabdian GEN 2021-13,SDG 17,2021,GEN,831,Internal,77000000
+14,Program Pengabdian FBE 2022-14,SDG 17,2022,FBE,725,Mitra Industri,71000000
+15,Program Pengabdian FADM 2022-15,SDG 17,2022,FADM,788,Mitra Industri,145000000
+16,Program Pengabdian FSS 2022-16,SDG 4,2022,FSS,828,Hibah Eksternal,16000000
+17,Program Pengabdian GEN 2022-17,SDG 1,2022,GEN,593,Hibah Eksternal,84000000
+18,Program Pengabdian GEN 2022-18,SDG 17,2022,GEN,391,Hibah Eksternal,163000000
+19,Program Pengabdian FSS 2022-19,SDG 4,2022,FSS,707,Mitra Industri,68000000
+20,Program Pengabdian FOE 2022-20,SDG 3,2022,FOE,714,Hibah Eksternal,126000000
+21,Program Pengabdian FSS 2022-21,SDG 4,2022,FSS,473,Mitra Industri,75000000
+22,Program Pengabdian FSS 2022-22,SDG 4,2022,FSS,630,Mitra Industri,110000000
+23,Program Pengabdian FBE 2022-23,SDG 17,2022,FBE,112,Hibah Eksternal,42000000
+24,Program Pengabdian GEN 2023-24,SDG 3,2023,GEN,736,Mitra Industri,98000000
+25,Program Pengabdian FADM 2023-25,SDG 4,2023,FADM,112,Hibah Eksternal,32000000
+26,Program Pengabdian FOE 2023-26,SDG 9,2023,FOE,166,Internal,108000000
+27,Program Pengabdian FADM 2023-27,SDG 9,2023,FADM,737,Mitra Industri,99000000
+28,Program Pengabdian GEN 2023-28,SDG 17,2023,GEN,295,Internal,10000000
+29,Program Pengabdian FBE 2023-29,SDG 4,2023,FBE,336,Hibah Eksternal,105000000
+30,Program Pengabdian FOE 2023-30,SDG 4,2023,FOE,227,Mitra Industri,120000000
+31,Program Pengabdian FADM 2023-31,SDG 17,2023,FADM,790,Mitra Industri,151000000
+32,Program Pengabdian GEN 2023-32,SDG 17,2023,GEN,375,Hibah Eksternal,126000000
+33,Program Pengabdian FST 2024-33,SDG 17,2024,FST,534,Hibah Eksternal,25000000
+34,Program Pengabdian FADM 2024-34,SDG 4,2024,FADM,720,Internal,46000000
+35,Program Pengabdian FOE 2024-35,SDG 10,2024,FOE,759,Internal,92000000
+36,Program Pengabdian FST 2024-36,SDG 4,2024,FST,479,Mitra Industri,69000000
+37,Program Pengabdian FOE 2024-37,SDG 1,2024,FOE,371,Hibah Eksternal,97000000
+38,Program Pengabdian FSS 2024-38,SDG 3,2024,FSS,517,Mitra Industri,43000000
+39,Program Pengabdian FOE 2024-39,SDG 4,2024,FOE,693,Internal,9000000
+40,Program Pengabdian FST 2024-40,SDG 8,2024,FST,46,Internal,63000000
+41,Program Pengabdian FSS 2024-41,SDG 3,2024,FSS,453,Mitra Industri,8000000
+42,Program Pengabdian FBE 2024-42,SDG 17,2024,FBE,709,Hibah Eksternal,51000000
+43,Program Pengabdian FST 2024-43,SDG 17,2024,FST,813,Mitra Industri,123000000
+44,Program Pengabdian GEN 2025-44,SDG 1,2025,GEN,152,Mitra Industri,44000000
+45,Program Pengabdian FBE 2025-45,SDG 1,2025,FBE,45,Hibah Eksternal,143000000
+46,Program Pengabdian FST 2025-46,SDG 4,2025,FST,540,Mitra Industri,66000000
+47,Program Pengabdian FSS 2025-47,SDG 8,2025,FSS,458,Hibah Eksternal,35000000
+48,Program Pengabdian FADM 2025-48,SDG 4,2025,FADM,399,Internal,172000000
+49,Program Pengabdian FOE 2025-49,SDG 1,2025,FOE,214,Mitra Industri,12000000
+50,Program Pengabdian FST 2025-50,SDG 4,2025,FST,342,Mitra Industri,153000000
+51,Program Pengabdian FST 2025-51,SDG 17,2025,FST,124,Hibah Eksternal,26000000
+52,Program Pengabdian GEN 2025-52,SDG 4,2025,GEN,463,Hibah Eksternal,93000000
+53,Program Pengabdian FOE 2025-53,SDG 4,2025,FOE,397,Mitra Industri,87000000
+54,Program Pengabdian FSS 2026-54,SDG 4,2026,FSS,163,Hibah Eksternal,126000000
+55,Program Pengabdian FST 2026-55,SDG 1,2026,FST,501,Mitra Industri,161000000
+56,Program Pengabdian GEN 2026-56,SDG 4,2026,GEN,219,Internal,163000000
+57,Program Pengabdian FBE 2026-57,SDG 4,2026,FBE,171,Mitra Industri,18000000
+58,Program Pengabdian FST 2026-58,SDG 4,2026,FST,351,Mitra Industri,32000000
+59,Program Pengabdian FBE 2026-59,SDG 3,2026,FBE,684,Internal,6000000
+60,Program Pengabdian FSS 2026-60,SDG 1,2026,FSS,663,Internal,137000000
+61,Program Pengabdian GEN 2026-61,SDG 17,2026,GEN,750,Internal,156000000
+62,Program Pengabdian GEN 2026-62,SDG 1,2026,GEN,815,Mitra Industri,141000000
+63,Program Pengabdian FSS 2026-63,SDG 4,2026,FSS,524,Internal,39000000
+64,Program Pengabdian FST 2026-64,SDG 4,2026,FST,477,Internal,99000000
+65,Program Pengabdian GEN 2026-65,SDG 17,2026,GEN,374,Mitra Industri,28000000
+66,Program Pengabdian FBE 2026-66,SDG 17,2026,FBE,79,Hibah Eksternal,103000000

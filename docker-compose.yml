@@ -1,0 +1,60 @@
+# docker-compose.yml -- Deployment Apache Superset + PostgreSQL
+# Pakai: docker compose up -d
+# Setelah jalan, buka http://localhost:8088 (login default: admin/admin -- GANTI SEGERA)
+
+version: "3.8"
+
+services:
+  db:
+    image: postgres:15
+    container_name: superset_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: dashboard_iku
+      POSTGRES_USER: superset
+      POSTGRES_PASSWORD: arumie
+    volumes:
+      - db_data:/var/lib/postgresql/data
+      - ./schema.sql:/docker-entrypoint-initdb.d/01_schema.sql
+    ports:
+      - "5433:5432"
+
+  superset:
+    image: apache/superset:latest
+    container_name: superset_app
+    restart: unless-stopped
+    user: root
+    depends_on:
+      - db
+    environment:
+      SUPERSET_SECRET_KEY: ganti_dengan_random_string_panjang
+    ports:
+      - "8088:8088"
+    volumes:
+      - superset_home:/app/superset_home
+      - ./superset_config.py:/app/pythonpath/superset_config.py
+    command: >
+      sh -c "
+      uv pip install --python /app/.venv/bin/python3 psycopg2-binary &&
+      superset db upgrade &&
+      superset fab create-admin --username admin --firstname Admin --lastname User --email admin@example.com --password admin &&
+      superset init &&
+      superset run -h 0.0.0.0 -p 8088
+      "
+
+volumes:
+  db_data:
+  superset_home:
+
+# =========================================================================
+# LANGKAH SETELAH CONTAINER JALAN:
+# 1. Import data dummy: jalankan generate_dummy_data.py, lalu load CSV
+#    ke tabel yang sudah dibuat schema.sql (lewat psql \copy atau Superset
+#    "Upload CSV" per tabel).
+# 2. Di Superset: Settings > Database Connections > tambahkan koneksi ke
+#    db (host: db, port: 5432, db: dashboard_iku, user: superset).
+# 3. Buat Dataset per tabel di menu Datasets.
+# 4. Set Row-Level Security: Settings > Row Level Security > buat rule
+#    berbasis kolom faculty_id/program_id sesuai role login (lihat
+#    blueprint.md bagian RBAC).
+# =========================================================================
